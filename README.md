@@ -1,4 +1,4 @@
 grunt-karma-requirejs
 =====================
 
-grunt/karma/requirejs setup
+TDD-lab with Grunt, Jasmine, Karma and RequireJS @ my work.
